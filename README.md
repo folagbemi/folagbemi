@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @folagbemi
+## 👋 Hi, I’m Gbemisola Afolabi.
 
-- I am a data analyst
+- I am a data analyst.
 
 - 🌱Dedicated to unravelling insights from complex datasets and transforming them into actionable strategies.
 
@@ -9,7 +9,7 @@
 
 - 💞️I’m interested in collaborating with a diverse team of professionals and contribute to meaningful projects that will have tangible impact to the society.
 
-- 📤  How to reach me [linkedIn](www.linkedin.com/in/gbemi-afolabi), [Email](folagbemi17@gmail.com)
+- 📤  How to reach me: [linkedIn](www.linkedin.com/in/gbemi-afolabi), [Email](folagbemi17@gmail.com)
 - 💼 Check out my [Portfolio]()
 
 <!---
